@@ -1,0 +1,16 @@
+a {
+ font-size: 25px;
+}
+
+a:hover {
+ color: orange;
+}
+
+a:active {
+
+  background: yellow;
+}
+
+a:link {
+  color:pink;
+}

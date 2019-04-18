@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://images.wagwalkingweb.com/media/articles/dog/daisy-poisoning/daisy-poisoning.jpg");
+    background-size: 1700px;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+}
+
+* {
+    font-family: Helvetica; color: whitesmoke; text-shadow: 1px 1px lightslategray;
+  } 
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border: 10px solid pink; display: block; margin-left: auto; margin-right: auto;
+}
+ß
